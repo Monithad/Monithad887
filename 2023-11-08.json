@@ -1,0 +1,26 @@
+{
+  "name": "Aaron Gonzales",
+  "age": 18,
+  "address": {
+    "street": "Emmi Point",
+    "city": "Konuseaj",
+    "state": "ME",
+    "zip": "98450"
+  },
+  "contact": {
+    "phone": "(333) 235-3218",
+    "servicePhone": "800875299"
+  },
+  "birthday": "1970-03-25T08:13:51.746Z",
+  "ip": "243.21.26.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Vur se eka gomugek moj noibi movlo om furi tu feslag voimnat egsuv hohri jor kadnovo kur odjafa. Gefwuzo kucoz mobra obi cagu cono otaguhhu kas hora rez vi zijul zephi pi. Honituw ovuduvih cib cegupawo ri nino li pogwuli gibecci ivupeviwu cac wisidva tocawut.",
+    "bio": "Walo toticin koosiibi sekah susgip ca ic boap massufmi pecasgo loneba bubaz turri simoza he urenacba bac wugunge. Luve ribdu ut epe bispaw ma paw ku telceblub jaupina tufkadpar junapoc nudalsij sir rorti. Reif cil bi wefrufpe uglabip nuvzi es po me runsi dujaiho vaficimeb. Vownep afcebu lemfa irahe kivzuniba wala fupoz urfet ucci ji car soj uc paeb odsu. Voojewug wottok zotivik kuceh sarema tigra ivotut revkab esusuh hu mav goucihu bicajzo losfek vatwejel voozi. Mil sawive ozgecmic inurihiv noacri ejuvadruc novam uzjaz pumizoti bihibueka iltasud lepat foico. Omeluhub biipemul tir kad sar ufabevut om ofoseuf reh cumiv afiafo kufer ku evepi lami fe sanu."
+  },
+  "apiKey": "acb374698bbd0d069f5d759c0d4aba6028a3d744bbafe272586f595139f2e653",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
