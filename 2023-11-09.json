@@ -1,0 +1,26 @@
+{
+  "name": "Juan Wolfe",
+  "age": 25,
+  "address": {
+    "street": "Reoc Mill",
+    "city": "Wapodew",
+    "state": "TN",
+    "zip": "33170"
+  },
+  "contact": {
+    "phone": "(466) 941-6371",
+    "servicePhone": "800986396"
+  },
+  "birthday": "1993-02-18T22:48:00.646Z",
+  "ip": "124.251.139.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Memura ca lu kujnakdoj uca mow bilkoes hoku zentogpob ohoinanuk sulun lek eme ubosiduj ule udep. Repavfas abobec pemu kujom sembejvim gevahcid de ag jasised uspigreb omcuc dahos vojafi furci kowfojis ebotiw. Bis aga sez garupuaze oh fena eta wa voamafip no vaof gileha nihpijav.",
+    "bio": "Jipum koago zi vej dofwev hi ceha jutjisrev di reg bef ah nevo nohi rivehvac siepan zu. Tor ji tozrip ak ej vofabu faow samheweja sok nualevul tubset icfo re em sir. Ivzorok aznuraw meve ujo pepkeiz me bajfusar wafnucriv cavokobin olezaz ovukoj duw li. Bev roizowu cuvzut sic lumro umobehcur te pe jod ner lahat belgik kubpi ewuvif piz vogrol."
+  },
+  "apiKey": "1cc00cf91a15a29715d5eac61d89978a28f21bf5cc891d971321de6e61d08631",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
