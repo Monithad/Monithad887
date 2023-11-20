@@ -1,0 +1,26 @@
+{
+  "name": "Carl Meyer",
+  "age": 24,
+  "address": {
+    "street": "Nusco Manor",
+    "city": "Ceboblif",
+    "state": "CO",
+    "zip": "51827"
+  },
+  "contact": {
+    "phone": "(900) 916-3597",
+    "servicePhone": "800327865"
+  },
+  "birthday": "1986-03-30T17:57:55.621Z",
+  "ip": "16.248.136.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Wozu zikajna hutjurat er ko zuru tum batku fofuva ojkicpo nejuhas hu morvom da asgihu tuetsoh dacu. Fe webazba epoongi wedlu potdur go onipir elu bajuh kejehvud ujwumcol hemmum zogvo. Za lod duni vuffo fukzuso tanmun difhuja ruaba lidli piup rimnok nurok tispejad ge pafelo fi vodjowa juafi. Jafhuvi saaviho we pulcein igi jeralik ehcigco cohku ecuwovca fojem juzsaza irecuciho sev picju. Uv tuzip du ma jacja civa wurzico arpurip tow habidave tezji wut ev hohajjed doovo zuv.",
+    "bio": "Su cu cat taibi gowci edokod kap jusup dihufte mawa jiazve kienuhi wetgevkuf. Camhez atu sujos ir pegwepan jides berakbi nosseheb wo rujukfi tumarvu gi kolanzas poawadis nudpibov. Tud uf lepa ruvcupse lico ifalosec keri jafli igi uv ced mepi. Bir catasa dowocu ra fa otvelhaj acan moh juc tubupil gebuj odvaz liwwoc gor cino."
+  },
+  "apiKey": "2b68f65f32afb91f4bcef591d8c9f86e623b7282d20f8d61dbe130afa502ab2c",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
