@@ -1,0 +1,26 @@
+{
+  "name": "Michael Griffin",
+  "age": 56,
+  "address": {
+    "street": "Domti Street",
+    "city": "Komzedhop",
+    "state": "IL",
+    "zip": "48475"
+  },
+  "contact": {
+    "phone": "(844) 573-3609",
+    "servicePhone": "800771864"
+  },
+  "birthday": "1975-06-27T09:54:57.928Z",
+  "ip": "249.180.14.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Se uwaari guvlokuf modmi ot jibdopob coni wod vo siowmis iho muka ze ozzikroc ocohehiwo. Vefarbi vec pi vo getru gud cugezuw errinji dugadezu lanumih zonulna sacec gikumnez eha derecpa gujwugej. Vopigre zoj le opezeewa muesiham bugeri rocbajtom laz gajihta lecuz epe ibgoga ha rih paklij dahe tejwidmoj. Huhinte sap pejugu ri zezvawe niimak pibocbo nojpam luf fijte daabiwap ro rafo raojpa. Rusjo fujudbaf nozuwoj pow vu gan rah pervageg mekzi nosaba ovaelaji minajva jiw is. Loguheha lirbeho bos gil rogetnet id ti jevzic ha gosropan pitu le. Izo agadozlaf uma lahel za tigwigej nuhohjim idohokum obueruoke cahtenepu cat ifsoseb.",
+    "bio": "Kumpe hibocer ah ih vol ni nihride tedej ve biv hufagof zab rekame ro pipmahjir nep de. Gami reuped ruhjis je ukopease ki isetaad zutanoj tazos bu hug ro. Rugohzoz gutuc li buhle pulkahe nuhuvbeg kaswum ten am murdivef dumvuffoj teipcaw cuw odoogipu gamalza la."
+  },
+  "apiKey": "33137f9048bae15220c583a6cea1b79f98b8b221e6a06de8c2975d444e041f1b",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
