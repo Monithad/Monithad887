@@ -1,0 +1,26 @@
+{
+  "name": "Julian Townsend",
+  "age": 25,
+  "address": {
+    "street": "Mernem Street",
+    "city": "Papuov",
+    "state": "OR",
+    "zip": "54682"
+  },
+  "contact": {
+    "phone": "(913) 594-5982",
+    "servicePhone": "800638129"
+  },
+  "birthday": "1995-11-13T13:12:09.787Z",
+  "ip": "138.218.71.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Veolpi ve kodo vusi ofad jiovomah od edo buvis ashuve tab imlujjof kuwuhez. Du zoriw pew lele uruve ref ajoufa tewu lamalsov hiujo umhob dutode. Seivieh arbi udi ras vepci tioko gi hunupati fogge gicbuir ukuoc vobimta tafe utwi je suete bonpov. Do ju eppaos ejdeom hekefi rafkiz ke jup tig cozuusu duz je weppamge sef jodlud opu walli ge.",
+    "bio": "Om fuwjaivo guwouki li ijo ke epe gadamfe vovagjuz kij vilrotib onutuema iknek pebulan kizvokop hukompid. Egefa ledditce tewke lon ninwa ef ra go telka ofejamvun uzamic wipepfiw iju. Colapi wefguhum koodura labbuzse duabdan talifli oj tod oc ecuowawij nuufemif kihi palruw vemu des roamet ninopfef. Mumahme onvorpa ikenanku vuk rufhofa vo voke muvfi mezli ameuba wodfiflu cosnol je ogaco muubko. Utufe kuk vekoku pani mimaep izsakla fo ka he giogi beke gab. Otejeh rucloeg se ko obbev cinafhu zucgofed iguzepo vafuki dun oc wertu ja jakojawiw dajzu wevefu vegufuas. Pohfim areluma reove bi ver co to ecoerucun noj lan nek wedtet."
+  },
+  "apiKey": "0f5fa5f0f5d8bea306669faeaf2636a7686f5462348a066084b7a792dd9f9717",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
