@@ -1,0 +1,26 @@
+{
+  "name": "Sean French",
+  "age": 22,
+  "address": {
+    "street": "Ruzas Drive",
+    "city": "Fivelonih",
+    "state": "CA",
+    "zip": "77841"
+  },
+  "contact": {
+    "phone": "(328) 461-8814",
+    "servicePhone": "800671286"
+  },
+  "birthday": "1982-05-10T00:32:40.496Z",
+  "ip": "7.56.154.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Wihgo afonocho lazej imbi nokig edge veneha ungesod hetigbu havud ves isa du kohal jaralum coteuw jeckepi. Famibamu sol af opaap wilpeuvo izula jum as venwimsu fo mahnu tivihna jilfohbaw. Ticri merommop agefa bivzeros we ucusenric jukhitim sopebce nov ensoco bagho wamtajpuf dowi uwpioru vidcoril.",
+    "bio": "Se le sokdik cimwew tu nilwu ri vem abcame ima og cavu ovoca. Gosalmov luwo humsakvu vojit gifumik egame to botrovfu mihosma ne siduczif uruubo isgi itafikan ejte ma. Ep duuc donececup uje gu gekfed higoit dicka panip curmo weimme hajvinpi."
+  },
+  "apiKey": "d7476bb70f64bff416c83a92c478f54d6c7003fb66f843bcaf0fa7a34dfa18ea",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
