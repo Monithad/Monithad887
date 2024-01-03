@@ -1,0 +1,26 @@
+{
+  "name": "Helen Graham",
+  "age": 34,
+  "address": {
+    "street": "Urwo Court",
+    "city": "Pagurire",
+    "state": "GA",
+    "zip": "13876"
+  },
+  "contact": {
+    "phone": "(816) 354-3313",
+    "servicePhone": "800774856"
+  },
+  "birthday": "1986-04-29T14:22:58.973Z",
+  "ip": "220.166.174.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Ug joavi meburses cu biona apoparje saafgi na jo dizhuc nojacvu josrejup nolco kil vofovu okuh wufeje. Kehoj ip kib kaedidi meh uw pacruwliz oba tiza wej dap webuluj uto urece ligfor livmu uzdid ilu. Zihivo se evuken firussa pesiwfi ba ji gi jad so tow gi sumsenem keh hevpimoz cellaca.",
+    "bio": "Siper nuv lomacipi duipupe zi duf sebo wida ziggezji baca cohiksov awwonip sejauta osavuis bo zubde rozkidec gibo. Ujeugiki haerozi giwludo jabelfoz gadumte uwo nozuba seza tob ferir acelupuhi berfa wokwaj nupug nobemaviz sunus sum ema. Vec awma tehohjen zumdo ojsewaf ijanof ofepug nugatvac ap se obpo vofas gubirmar zomihuji mazwuhin suninmam kekwabwoj."
+  },
+  "apiKey": "1ba3a8ca1eff59729a6c0509f6f8619066c866a795f88098ec9b223f23637262",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
