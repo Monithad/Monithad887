@@ -1,0 +1,26 @@
+{
+  "name": "Eugenia Meyer",
+  "age": 20,
+  "address": {
+    "street": "Ridnus Point",
+    "city": "Ufjodec",
+    "state": "SC",
+    "zip": "95462"
+  },
+  "contact": {
+    "phone": "(470) 587-8093",
+    "servicePhone": "800311429"
+  },
+  "birthday": "1971-03-03T21:20:24.304Z",
+  "ip": "24.218.157.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Ata moltaine bopdet savetoc rupgo zo lutdiod fe enro mafvegip foheh ujodu ekbi javi pegduek. Ehavusde mevsa idi jil biuhebad da juj rilwujfa ebnu duzfijfez afi az su jopneg zashube deugu am ekrul. Al leit wis viekifi gurhu jemtosoc efezuhom jojub voridi hemudva zu boholad te.",
+    "bio": "Ruz ovu kuh bearja sek fol kogaru uvjopuk na nemeje ifouzu nucluj doh. Jumuz bifah kilakub suggu ipezuzu zapsi zuttuvkik tijjiwe bili cimeec fat fu. Wom wev fudhekrab ejviz etlasum ecavur efdejih zeafo buwbipwa raw aca fozecjug. Of devorfu jevisouj somrupew hozpihi lateuw naponra hi zivi afko zahpiov rahnoffu ahpo."
+  },
+  "apiKey": "4b1b21896823121b36d29b52289825de9b40148540981cedc493b5faa3adf11b",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
