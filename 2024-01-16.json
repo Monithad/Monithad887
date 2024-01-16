@@ -1,0 +1,26 @@
+{
+  "name": "Irene Meyer",
+  "age": 22,
+  "address": {
+    "street": "Uceed Circle",
+    "city": "Okavagef",
+    "state": "MT",
+    "zip": "31387"
+  },
+  "contact": {
+    "phone": "(301) 905-4582",
+    "servicePhone": "800884339"
+  },
+  "birthday": "1997-08-15T15:29:56.153Z",
+  "ip": "226.179.202.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Bo esnoh la pa du balu vid jevar ad ive wolha re. Ob ive useto rujar usowel usaoska vudraf sodmugoh naunse lo jam itiifi ipulujo zo man ugruk ihlodut. Civurvu owabu za ijid tegovtoh fomen mehratve nidkew of puz joviv dubvac. Genovikag zozvepki fi bobe hutew ule col hazic idepnel podicmuk ut fup geihu lisem despikoc lo uzonowuc daup. Ufsoweb zo afabaj pub hu hulik dud izoden woukuik rinreh awa evduz woro waav ek lahsigvak. Pahgi acapo apo iki fivulida siago zarom sew inme jisuv ijaji rice emiihek za ruitiota mef. Gollele bihzef tozrewwa mo gatar rubbi nikeel si bugokik ageaj ozusi ospulje.",
+    "bio": "Urutujo zupuda sekkafhir zakniz wel reselje uhofujlug la sunac val co recnu hiarli ce. Uwluto ziuw hiciginu hag hopazni iwu joode baluvro paf heg leadek ir vu hemor hi. Ahibocidi ud hug nezilco at muureum kejho gin nufuzeco fufotos ud zagsuipi vivofuup iwzo egsani. Famtego epumikfe ro uk avdavme rev vehmigi sama rahfo zesbujur zijdimig moghel irejavir uja sop. Vis bimu va jateor ka nowe ev tijhukni epiuke acenudiv gutuece tiunu nig cufguv ukhin. Enauvtoc cazepa wan neekeza ma du sa vunbajvuc hifukal juec geg cojuzid gur fihu cacet."
+  },
+  "apiKey": "8502245c93ec05927fa0e5e9e9010e9c4c0669cadce722c99268f97234f3c9b7",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
