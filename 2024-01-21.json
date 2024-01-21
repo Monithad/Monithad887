@@ -1,0 +1,26 @@
+{
+  "name": "Sally Schneider",
+  "age": 49,
+  "address": {
+    "street": "Nuku Junction",
+    "city": "Nuuwwuk",
+    "state": "WA",
+    "zip": "35391"
+  },
+  "contact": {
+    "phone": "(418) 590-5317",
+    "servicePhone": "800712719"
+  },
+  "birthday": "1989-10-30T22:49:55.618Z",
+  "ip": "192.242.175.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Rec vijvu diwu pimdec zipsa pah sefwure kazefhu adcerpu tuk tatrirak hob. Wihag hun mecouh wedrub fuuheep nahfanu fasuhki pawogug edize narna bastok nukot hipwal josebi tugubu vaf kiwlegli garesohu. Fevok gughav boituhog zauski ci opki furu vatolew ca mez peew budu.",
+    "bio": "Mizislu aji ewejul migozbo sa opjon ewoc ge zi ruifwe capuer lilag vukvaifo ziwijjit vam oc cil. Fodpif jimkav roungi luz di ke kaopo wede me gojegten hifno acti zog pel mes tuz de mejdikaw. Bub cutmenhi wikudizu olef zi ewo pewuh wiwizine hajsob tu egmajtid akaihoto pegco."
+  },
+  "apiKey": "94c52e48462c4d27d7407f342d62e025cc32c735829a07f69d800205e28222b2",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
