@@ -1,0 +1,26 @@
+{
+  "name": "Pauline Carlson",
+  "age": 42,
+  "address": {
+    "street": "Mulo Road",
+    "city": "Ficceda",
+    "state": "NE",
+    "zip": "83792"
+  },
+  "contact": {
+    "phone": "(225) 249-5848",
+    "servicePhone": "800991645"
+  },
+  "birthday": "1990-05-09T12:40:36.450Z",
+  "ip": "204.102.114.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Ma mumuhik nolhiaw ec cufzo gic ehiev sapir mot julnuwfa hudajju kuh tafemu uvulipu honzokcoc ebomu uno. Awvik nuhobon za iwhuk futneji ezomezru guw wi zo koazalin kasude muh. Dotdo uvojazu li teszom ke gij pez duib judzigzep zuwlu acu jak cessi. Uwu ki maodedo kikovu tovandev sud cahuhtup wef jo ekde ez mu evjospow liwwi tagzutoj we kezfaz.",
+    "bio": "Fodjidmu dule nirhiza toj muzurop jeahegos zanekodo guhlarpaz wevur da lovdidu to. Nevsidol mewnodas ernur lunubcos vokfi mawuko epse hepa cevov jag kiec cotri ipiiftul lowif nir. Odewuuca gibem pumkear joiw lizjolke pe teb luwatace tehozheh nuodake fojofagu pechu pab nosew jevju benesug."
+  },
+  "apiKey": "fead95ac148947e91a0409b301a34d902eb92f5dbd05c2157a1aae630bec62ce",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
