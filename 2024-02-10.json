@@ -1,0 +1,26 @@
+{
+  "name": "Lelia Holmes",
+  "age": 49,
+  "address": {
+    "street": "Duaju Boulevard",
+    "city": "Wacacfeh",
+    "state": "AR",
+    "zip": "85858"
+  },
+  "contact": {
+    "phone": "(928) 703-5090",
+    "servicePhone": "800136458"
+  },
+  "birthday": "1967-08-29T10:25:54.801Z",
+  "ip": "66.51.115.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Beeghet zuhuda tefo pu tihop roc tureffu fil ikapekcu tuigi linca ikligsiv vot vol givma ojgiam bikarma alofo. Kol keuceb ifti se urohakug renef wekhun hi igamegib mugehe av sofaed cud tuv tim fa nongav jeorewa. Wuegoora fuhehap boto jajikab afo mu umu cov hiibu kihujifak peweh golkif feta fus jarmita kudaha.",
+    "bio": "Ra hub galhasef haha movraal ichok sekinge vihpabga kasup he paroz rekuz fehluum zeg di etcirdi um jo. Noz ezec bohcotaz ewekoheb zot nuk alpiwuse goro fomzi sosbewuv pimtam nunpiog. Dobsosuz me rolaze bil hewulid luebupo ujwi val acopojawa zal zabrozo vitlecek."
+  },
+  "apiKey": "89a38aa8a145384cb5c2085e67bc6c34c81f07497cb07ba783f9273f379d65c9",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
