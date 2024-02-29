@@ -1,0 +1,26 @@
+{
+  "name": "Allie Wade",
+  "age": 18,
+  "address": {
+    "street": "Nuve Path",
+    "city": "Itievaziz",
+    "state": "ME",
+    "zip": "82200"
+  },
+  "contact": {
+    "phone": "(782) 320-9162",
+    "servicePhone": "800933683"
+  },
+  "birthday": "1993-05-31T09:07:50.640Z",
+  "ip": "38.162.95.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Om vo ozoheos ces cuid agolar gen me gipguza ro re rovtelut denbumu iktamna sasvedle ba jajuut heogoelu. Ziznubruh ejbutaw ad dom cojtepse cuwbor di oke vocli batit uruceuki pazol dutog la. Fatur si uhuvav jilgol cicer novzefa umo koffavwaz reshuw alu idwelum zacalhil covpin ponkaj.",
+    "bio": "Nek fomizokiz butfaw hij edwesopo jonet tu rugjipo law evo zogze uz bungoul totamuw gusgih. Ra uc ojepij mer vuh zawif hobivun bockep rupo irmobim eleaho tireb keapoes vujudefo udopiob. Gan ni fogate ulibug itguz cokham mahbiv ic etre cususo ciwurgol moovopeh le cupul."
+  },
+  "apiKey": "cd0daac76644aae536b1963aa2d0c41c1217a16e87572778caad06d2cf404cea",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
