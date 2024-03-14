@@ -1,0 +1,26 @@
+{
+  "name": "Jeffrey Silva",
+  "age": 24,
+  "address": {
+    "street": "Kepol Extension",
+    "city": "Kirewa",
+    "state": "IA",
+    "zip": "17518"
+  },
+  "contact": {
+    "phone": "(929) 679-1382",
+    "servicePhone": "800176531"
+  },
+  "birthday": "2002-07-08T04:33:00.299Z",
+  "ip": "111.4.4.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Kongovuza namumgo hekoz jiwjaaw vaero kitpokgo mafohuna hawa ke teh za gubzubu. Irbuur awwum upebovbab iceknib obupojib ceva otle fojek depdir pajuj teniv ameta gi gihaav ji. Juusofug ub kos nip seofo pabridu katgontuk ujfon govke irfos vevlo hogle verumka.",
+    "bio": "Mo rof alja zicpalew hepog mossiwasa burrat temkeole ip pam lamiwicef rol git bej se lifpa guj hetfaduv. Id ep zosof ro ud vozkimos vakzipuz eboti ebefe zus oketak va gafev vicewgem tockampih. Manorko gomkapake teltaj daz edpu ajegi muma gub luccor kummah edbejho or ceztulo sefaw. Fejigwe vigila jakruac fag utuaragam ega citihew to gaz ow decwu pesopo."
+  },
+  "apiKey": "b76a35406ced07e66294d48daf8f0dbdd6e91e7a7c85d51ae9c12e5937615650",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
