@@ -1,0 +1,26 @@
+{
+  "name": "Gilbert Schwartz",
+  "age": 19,
+  "address": {
+    "street": "Digvom Park",
+    "city": "Fulhaza",
+    "state": "MA",
+    "zip": "42305"
+  },
+  "contact": {
+    "phone": "(657) 790-4320",
+    "servicePhone": "800252782"
+  },
+  "birthday": "1995-02-05T18:19:47.527Z",
+  "ip": "42.230.180.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Fulola eguto govefo hil ikanivo jej konmujemo nilki gukus ipmani lo voj duhuv ac noir rel woften civ. Api bup hehkuep ukgalom wakam divoseeh ufedij akbizge mim nezup filaevo iwkiroli okohize. Nero meloju fezpiz pupiprub mokliuz onepagjit ve luchu goz ni cersa ugzan hisok.",
+    "bio": "Jodisev ubsu ezuro gifmuv milvu gesim taduhzu icnoggan enuuzav nuzso et posezdu polbi. Kejide gimu tifmetdu kuj tibas enpa nolejacuh di biha doz jir baf obahu eraed rojamum. Kairi ovatektu olucekda votecduw oleib owawigoh balapdid verocbem cimito loir no amedir cezhak mokmokeg bodreafe."
+  },
+  "apiKey": "d6b28a2ae99392e626bc62a1f61f0f191f52ade9313875768c82cf68987726d9",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
